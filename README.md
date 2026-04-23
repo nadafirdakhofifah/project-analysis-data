@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ```bash
 mkdir project_analysis_data
-cd project_analysis_data
+cd dashboard
 pipenv install
 pipenv shell
 pip install -r requirements.txt
