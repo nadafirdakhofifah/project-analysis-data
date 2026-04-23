@@ -11,8 +11,8 @@ pip install -r requirements.txt
 ## Setup Environment - Shell/Terminal
 
 ```bash
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir project_analysis_data
+cd project_analysis_data
 pipenv install
 pipenv shell
 pip install -r requirements.txt
